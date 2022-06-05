@@ -1,0 +1,44 @@
+
+
+.main {
+    background-color:cornflowerblue;
+    border: 2px solid cornflowerblue;
+    margin: 0 auto;
+    width: 300px;
+    border-radius: 10px;
+
+}
+
+.res {
+    width: 93%;
+    height: 20px;
+    font-size: 20px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: burlywood;
+}
+
+.clr {
+    width: 200px;
+    margin-left: 50px;
+    border-radius: 10px;
+    background-color: coral;
+    margin-top: 5px;
+}
+
+.btn {
+    width: 50px;
+    border-radius: 10px;
+    background-color: coral;
+    margin-left: 18px;
+    margin-top: 5px;
+}
+
+
+.half {
+    width: 120px;
+    border-radius: 10px;
+    background-color: coral;
+    margin-left: 20px;
+    margin-top: 15px;
+}
